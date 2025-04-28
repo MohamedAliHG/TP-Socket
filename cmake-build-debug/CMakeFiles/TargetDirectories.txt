@@ -1,0 +1,3 @@
+C:/Users/Lenovo/OneDrive/Bureau/GL2/socket/cmake-build-debug/CMakeFiles/socket.dir
+C:/Users/Lenovo/OneDrive/Bureau/GL2/socket/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/OneDrive/Bureau/GL2/socket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
